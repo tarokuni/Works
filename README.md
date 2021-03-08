@@ -1,5 +1,5 @@
-# Codes from past research works
+# Codes from past research works (physics)
 
 Codes I wrote for physics research
-- In retrospect, not well documented. Does not reflect my current level of coding.
-- Nonetheless placed here as a sample of research-oriented code with numerical aspects.
+- The code is not self-explanatory, and is not documented as I would do today. Does not reflect my current level of coding practice.
+- The code is placed here as a sample of research-oriented code with numerical aspects.
