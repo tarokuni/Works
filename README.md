@@ -1,6 +1,4 @@
 # Codes from past research works (physics)
-
-Codes I wrote for physics research:
 - Kamada, K., Kobayashi, T., Kunimitsu, T., Yamaguchi, M., & Yokoyama, J. I. (2013). Graceful exit from Higgs G inflation. Physical Review D, 88(12), 123518.
 https://journals.aps.org/prd/abstract/10.1103/PhysRevD.88.123518
 - The code calculates the evolution of the inflaton value within generalized G-inflation models.
